@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is RT Marketing.me
 
-Template Name: Resi
-Template URL: https://bootstrapmade.com/resi-free-bootstrap-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is an example website built in Boostrap 
